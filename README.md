@@ -12,3 +12,5 @@ What I have learnt
 1. SQL
 2. PowerBi Desktop
 3. DAX Language
+
+![image](https://github.com/user-attachments/assets/c9d6fcfa-97d9-4091-a4e3-bf6603c56982)
